@@ -1,0 +1,9 @@
+body {
+    background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    text-decoration-style: solid;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+}
